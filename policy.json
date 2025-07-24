@@ -5,7 +5,7 @@
       "Sid": "AllowCloudFrontOAIReadAccess",
       "Effect": "Allow",
       "Principal": {
-        "CanonicalUser": "d17h38cfefzaym.cloudfront.net"
+        "CanonicalUser": "nvrjansen-portfolio"
       },
       "Action": "s3:GetObject",
       "Resource": "arn:aws:s3:::nvrjansen-portfolio/*"
